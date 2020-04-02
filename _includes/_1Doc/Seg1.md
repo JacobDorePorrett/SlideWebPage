@@ -7,4 +7,3 @@ Make sure these are saved somewhere that's accessible to your supervisor/team.
 
 Note: 
 Highlight that it can be as simple as a word document on research space or taking photos of your lab notebook and uploading them into a folder. 
----
