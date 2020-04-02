@@ -1,7 +1,3 @@
-### Step 1
-
-### Documentation
-
 ---
 Documentation is the idea of documenting your procedures for your experiment so that an outsider could understand the workings of your lab. 
 ---
