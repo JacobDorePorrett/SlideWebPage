@@ -19,4 +19,3 @@ Which when applied, would look like this below
 20150621_Yaouk_Humidity.CSV
 ---
 Some characters may have special meaning to the operating system so avoid using these characters when you are naming files. These characters include the following: / \ " ' * ; - ? [ ] ( ) ~ ! $ { } &lt > # @ & | space tab newline https://www.ibm.com/support/knowledgecenter/en/ssw_aix_71/com.ibm.aix.osdevice/filename_conv.htm
----
